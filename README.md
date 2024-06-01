@@ -36,7 +36,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://flash-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://fearless-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
@@ -48,9 +48,9 @@
 ***
 
 ### LICENSE 
--The TOXXIC MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+-The FEARLESS MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
--Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
+-Enjoy the diverse features of the FEARLESS-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
 ### DEVELOPER:
