@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/Olamiposissi/Fearless-md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
-<p align="center">
+<p align="center"> Fearless md
 <a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
 <a href="https://github.com/Olamiposissi/Fearless-md/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
 <a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
@@ -20,7 +20,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Olamiposissi/Fearless-md) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Whatappl/Fearless-md) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://france-king.vercel.app)***
 
