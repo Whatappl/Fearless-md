@@ -7,16 +7,7 @@
   </p>
     <img alt="Fearless-MD" width="700" height="300" src="https://telegra.ph/file/f17d47cb3b8b05d019a0c.jpg">
 <p align="center">
-<p align="center">
-<a href="https://github.com/Olamiposissi/Fearless-md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
-<p/>
-<p align="center"> Fearless md
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/Olamiposissi/Fearless-md/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/Olamiposissi/Fearless-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
-  
-***
+<p align="center"> FEARLESS MD
 
 #### SETUP 
 
