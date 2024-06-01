@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Olamiposissi/Fearless-md) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](.https://venocybersessiong-1431c6f72219.herokuapp.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 
@@ -36,7 +36,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://flash-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://https://france-king.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
