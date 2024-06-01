@@ -13,7 +13,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Whatappl/Fearless-md) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://fearless-md.vercel.app/)***
+***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://fearless-md.vercel.app/cdg1::fj7d9-1717274673064-8dbc15c40990)***
 
 *-Copy The Session ID to paste it in Heroku*
 
