@@ -1,9 +1,9 @@
 # Fearless-md<h1 align="center"> Fearless 𝙼𝙳 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
-<p align="center">  
+<p align="center"> 
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEARLESS+BOY;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEARLESS+BOY;RELEASED+1.4.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="Fearless-MD" width="700" height="300" src="https://telegra.ph/file/f17d47cb3b8b05d019a0c.jpg">
 <p align="center">
@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Olamiposissi/Fearless-md) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://flash-sessions-d1f770c2ae05.herokuapp.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair)***
 
 *-Copy The Session ID to paste it in Heroku*
 
