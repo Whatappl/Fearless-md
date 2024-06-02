@@ -15,7 +15,7 @@
 </p> 
 
 ## DEPLOYMENT STEPS
-1,TAP ON Mac APP
+1,TAP ON Fearless APP
 
 
 
@@ -30,7 +30,7 @@
 
 ## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗠𝗔𝗖 𝗕𝗢𝗧
   
-[𝗠𝗔𝗖 𝗔𝗣𝗣](https://fear-scanner-d82e01b36359.herokuapp.com/)
+[Fearless 𝗔𝗣𝗣](https://mac-scanner-d82e01b36359.herokuapp.com/)
 
 
  <hr>
