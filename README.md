@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEARLESS+BOY;RELEASED+1.4.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="Fearless-MD" width="700" height="300" src="https://telegra.ph/file/f17d47cb3b8b05d019a0c.jpg">
-<h1 align="center">MAC MD</h1>
+<h1 align="center">FEARLESS MD</h1>
  
 ## Join my channel for updates and get free cc
 <a href="https://whatsapp.com/channel/0029VafEg1mIyPtLXQjAbz3k" target="_blank">
@@ -15,7 +15,7 @@
 </p> 
 
 ## DEPLOYMENT STEPS
-1,TAP ON Fearless APP
+1,TAP ON Mac APP
 
 
 
