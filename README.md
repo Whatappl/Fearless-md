@@ -1,13 +1,13 @@
 # FEARLESS 𝐁𝐎𝐓
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐃𝐑𝐄𝐗+𝐁𝐎𝐓;A+WHATSAPP+BOT;CREATED+BY+DREX+MOSE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐃𝐑𝐄𝐗+𝐁𝐎𝐓;A+WHATSAPP+BOT;CREATED+BY+FEARLESS+MD" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
 <img src="https://telegra.ph/file/f17d47cb3b8b05d019a0c.jpg" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=DREX-BOT+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FEARLESS-BOT+WHATSAPP+BOT" alt="">
 <p align="center">
 <a href="'https://wa.me/2348075952205yoh+𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼ +nishow+venye+nitadeploy+drex-ai'"><img title="Whatsapp" src="'https://wa.me/2348075952205yoh+𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼ +nishow+venye+nitadeploy+drex-ai'?color=green&style=flat-square"></a>
   
