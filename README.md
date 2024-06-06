@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FEARLESS-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEALESSU+BOY;RELEASED+6.6.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEALESSU+BOY;RELEASED+6.6.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="𝖥𝖾𝖺𝗋𝗅𝖾𝗌𝗌-𝖬𝖣" width="700" height="300" src="https://telegra.ph/file/f17d47cb3b8b05d019a0c.jpg">
 <p align="center">
