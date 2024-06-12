@@ -5,55 +5,24 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FEARLESS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FEALESSU+BOY;RELEASED+6.6.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="𝖥𝖾𝖺𝗋𝗅𝖾𝗌𝗌-𝖬𝖣" width="700" height="300" src="https://telegra.ph/file/f17d47cb3b8b05d019a0c.jpg">
-<p align="center">
-<p align="center">
-<a href="https://github.com/Whatappl/Fearless-md"
-<p/>
+    # *MADE WITH 🤍 BY FEARLESS TECH*
 
-***
 
-#### SETUP 
+## *NOTE*
+- *SESSION ID GENERATOR FOR X-ASENA AND FEARLESS MD BASED BOTS*
+- *IN ORDER TO USE PAIR CODE AND SESSION ID'S YOU HAVE TO USE*
+- *"maher-zubair-baileys": "^6.6.5" OR "@whiskeysockets/baileys": "^6.5.0" IN YOUR BOT*
+- *OTHER-WISE THE PAIR CODE WILL NOT WORK AND NOR SESSIOND ID'S*
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Olamiposissi/Fearless-md) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://scan-flash-md.onrender.com) Or [`PAIRING CODE`](https://flash-sessions.onrender.com/pair)***
-
-*-Copy The Session ID to paste it in Heroku*
-
-***
-
-#### DEPLOY TO HEROKU 
-**1. If You Don't Have An Account On Heroku**
-    <br>
-<p align="center"><a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+## *DEPLOYMENT METHODS*
+- ***DEPLOY ON `HEROKU` OR `RENDER` OR ANY PLATFROM YOU LIKE***
+- ***CREATE HEROKU OR RENDER ACCOUNT***
+- ***CREATE NEW APP AND CONNECT YOUR REPOSITORY USING GITHUB***
+- ***THEN DEPLOY THE REPO AND BOOM 💥***
+- ***DON'T FORGOT TO STAR THE REPO***
+- 
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://fearless-md.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-***
-
-
-***
-
-
-### CONTRIBUTIONS 
--Contributions to Fearless Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-***
-
--Enjoy the diverse features of the FEARLESS-Md  to enhance your conversations and make your WhatsApp experience more interesting!
-
-***
-### DEVELOPER:
-**GET In Touch with The Owner**
-- [**Via WhatsApp**](https://wa.me/2348075952205)
-
-***
-
-### THANKS 
--For Providing a Base of **FEARLESS-MD**
+<p align="center"><a href="https://fearless-md.vercel.app"> <iadg
